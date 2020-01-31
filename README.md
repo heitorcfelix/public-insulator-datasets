@@ -16,7 +16,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the req
 ```bash
 pip install -r requirements.txt
 ```
-To do the merge and increase the data of this work, it is necessary to download the dataset proposed by Tomaszewlki et al. available here and copy the content to the Tomaszeski folder. Do the same for the CPLID dataset available here and copying its contents to the CPLID folder.
+To do the merge and increase the data of this work, it is necessary to download the file downsized.zip of the dataset proposed by Tomaszewlki et al. available [here](https://cv.po.opole.pl/dataset1/) and copy the content to the Tomaszeski folder. Do the same for the CPLID dataset available [here](https://github.com/InsulatorData/InsulatorDataSet) and copying its contents to the CPLID folder.
 
 Copy the contents of the albumentations folder to the folder where the Albumentations project was cloned.
 
