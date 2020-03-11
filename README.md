@@ -34,7 +34,7 @@ If you use this project in your research, please cite this project.
 
 ```
 @misc{vieira2020unifying,
-    author = {Vieira-e-Silva, André L. and Chaves, Thiago and Felix, Heitor and Macêdo, David and Simões, Francisco and Gama-Neto, Milton and Teichrieb, Veronica and Zanchettin, Cleber},
+    author = {Vieira-e-Silva, Andr{\'e} L. and Chaves, Thiago and Felix, Heitor and Mac{\^e}do, David and Sim{\~o}es, Francisco and Gama-Neto, Milton and Teichrieb, Veronica and Zanchettin, Cleber},
     title = {{Unifying Public Datasets for Insulator Detection and Fault Classification in Electrical Power Lines}},
     year = {2020},
     howpublished = {\url{https://github.com/heitorcfelix/public-insulator-datasets}}
