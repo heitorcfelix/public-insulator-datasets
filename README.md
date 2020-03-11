@@ -29,5 +29,17 @@ Change the "data_root" file path from data_augmentation.py file to the path that
 python data_augmentation.py
 ```
 
+## Citations
+If you use this project in your research, please cite this project.
+
+```
+@misc{vieira2020unifying,
+    author = {Vieira-e-Silva, André L. and Chaves, Thiago and Felix, Heitor and Macêdo, David and Simões, Francisco and Gama-Neto, Milton and Teichrieb, Veronica and Zanchettin, Cleber},
+    title = {{Unifying Public Datasets for Insulator Detection and Fault Classification in Electrical Power Lines}},
+    year = {2020},
+    howpublished = {\url{https://github.com/heitorcfelix/public-insulator-datasets}}
+}
+```
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
